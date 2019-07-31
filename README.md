@@ -6,4 +6,5 @@
 ---
 
 ### To-Do: 
-Current code adds a product A from Order X to Order Y as an individual. When Order Y has product A too, only the quantity of it should change, but code adds another product A separately for now.
+- Current code adds a product A from Order X to Order Y as an individual. When Order Y has product A too, only the quantity of it should change, but code adds another product A separately for now.
+- Add another button to combine selected user's processing orders.
