@@ -8,6 +8,7 @@ function admin_order_list_top_combine_button( $which ) {
                         <input type='number' name='second_order' min=0 placeholder='Order ID - 2'>
                         <button type='submit' name='combineOrders' style='height:32px;' class='button' value='yes'>Combine Orders</button>
                     </div>";
+        echo $content;
     }
 }
 
