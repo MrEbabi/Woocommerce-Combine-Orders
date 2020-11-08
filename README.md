@@ -9,4 +9,5 @@
 - Current code adds a product A from Order X to Order Y as an individual. When Order Y has product A too, only the quantity of it should change, but code adds another product A separately for now.
 - Add another button to combine selected user's processing orders.
 - Add extra charges (like Shipping) to combined order as income.
-- Develop PHP Function to be a Wordpress Plugin.
+- Finish as plugin.
+- nonce check for form submitting.
